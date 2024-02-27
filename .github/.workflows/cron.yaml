@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: 
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: curl
+        run: |
+            curl "https://rules.nada-sc.jp"

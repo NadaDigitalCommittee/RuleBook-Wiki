@@ -2,12 +2,13 @@
 title: 生徒会員規則
 description: 
 published: true
-date: 2024-03-03T20:19:37.689Z
+date: 2024-03-03T23:21:08.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:19:37.689Z
 ---
 
+*Rules of Student Council Members*
 ## 規則情報
 公布年月日：平成１９年３月２日
 　　　形式：規則

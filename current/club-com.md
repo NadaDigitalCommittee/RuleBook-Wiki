@@ -2,12 +2,13 @@
 title: クラブ委員会規則
 description: 
 published: true
-date: 2024-03-03T21:42:59.305Z
+date: 2024-03-03T23:32:03.143Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T21:42:59.305Z
 ---
 
+*Rules of Club Committee*
 ## 規則情報
 &emsp;規則番号：令和３年規則第１号
 公布年月日：令和３年２月２６日

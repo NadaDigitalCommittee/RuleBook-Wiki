@@ -2,12 +2,13 @@
 title: 生徒会規約改正案全校投票規則
 description: 
 published: true
-date: 2024-03-03T22:04:35.796Z
+date: 2024-03-03T23:33:24.559Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T21:56:30.869Z
 ---
 
+Rules of All School Voting for Amendment to the Charter
 ## 規則情報
 &emsp;規則番号：令和４年規則第３号
 公布年月日：令和４年５月３０日

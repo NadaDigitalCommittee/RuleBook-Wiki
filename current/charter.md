@@ -2,12 +2,13 @@
 title: 灘高等学校灘中学校生徒会規約
 description: 
 published: true
-date: 2024-03-03T20:58:16.569Z
+date: 2024-03-03T23:13:32.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:59:07.732Z
 ---
 
+*Charter of Nada Junior and Senior High School Student Council*
 ## 規約情報
 公布年月日：平成２６年６月１９日
 　　　形式：規約

@@ -2,7 +2,7 @@
 title: 灘高等学校灘中学校生徒会規約
 description: 
 published: true
-date: 2024-03-03T15:07:28.237Z
+date: 2024-03-03T15:52:01.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:59:07.732Z

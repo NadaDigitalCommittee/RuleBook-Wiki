@@ -2,12 +2,13 @@
 title: 中央委員選挙規則
 description: 
 published: true
-date: 2024-03-03T20:59:27.441Z
+date: 2024-03-03T23:31:20.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:47:27.664Z
 ---
 
+*Rules for Election of Members of the Headquarter*
 ## 規則情報
 公布年月日：平成２６年５月７日
 　　　形式：規則

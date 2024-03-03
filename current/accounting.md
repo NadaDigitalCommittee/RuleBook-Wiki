@@ -2,13 +2,13 @@
 title: 会計規則
 description: 
 published: true
-date: 2024-03-03T23:34:19.947Z
+date: 2024-03-03T23:35:08.648Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T22:22:04.278Z
 ---
 
-*Rules of accounting*
+*Rules of Accounting*
 ## 規則情報
 &emsp;規則番号：令和５年規則第２号
 公布年月日：令和５年３月２日

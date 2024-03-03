@@ -2,12 +2,13 @@
 title: 請願規則
 description: 
 published: true
-date: 2024-03-03T22:09:42.717Z
+date: 2024-03-03T23:33:50.168Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T22:09:42.717Z
 ---
 
+*Rules of Petition*
 ## 規則情報
 &emsp;規則番号：令和４年規則第５号
 公布年月日：令和４年１１月８日

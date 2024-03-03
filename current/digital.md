@@ -2,12 +2,13 @@
 title: デジタル委員会規則
 description: 
 published: true
-date: 2024-03-03T22:54:23.992Z
+date: 2024-03-03T23:37:45.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T16:18:31.622Z
 ---
 
+*Rules of Digital Committee*
 ## 規則情報
 &emsp;規則番号：令和５年規則第７号
 公布年月日：令和５年９月８日

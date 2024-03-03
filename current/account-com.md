@@ -2,12 +2,13 @@
 title: 会計委員会規則
 description: 
 published: true
-date: 2024-03-03T22:41:21.636Z
+date: 2024-03-03T23:36:08.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T22:41:21.636Z
 ---
 
+*Rules of Account Committee*
 ## 規則情報
 &emsp;規則番号：令和５年規則第４号
 公布年月日：令和５年３月１４日

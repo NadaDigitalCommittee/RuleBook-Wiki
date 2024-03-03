@@ -2,12 +2,13 @@
 title: 補助機関規則
 description: 
 published: true
-date: 2024-03-03T22:55:48.212Z
+date: 2024-03-03T23:36:41.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T22:55:48.212Z
 ---
 
+Rules of Assistant Agency
 ## 規則情報
 &emsp;規則番号：令和５年規則第５号
 公布年月日：令和５年９月８日

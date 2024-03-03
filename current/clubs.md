@@ -2,12 +2,13 @@
 title: クラブ規則
 description: 
 published: true
-date: 2024-03-03T21:01:16.928Z
+date: 2024-03-03T23:31:42.606Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T21:01:16.928Z
 ---
 
+*Rules of Clubs*
 ## 規則情報
 公布年月日：平成２６年１０月８日
 　　　形式：規則

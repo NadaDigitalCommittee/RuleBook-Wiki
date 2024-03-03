@@ -2,12 +2,13 @@
 title: 新聞委員会規則
 description: 
 published: true
-date: 2024-03-03T20:31:18.815Z
+date: 2024-03-03T23:30:02.574Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:31:18.815Z
 ---
 
+*Rules of Newspaper Committee*
 ## 規則情報
 公布年月日：平成１９年３月２日
 　　　形式：規則

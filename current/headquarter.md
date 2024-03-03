@@ -2,12 +2,13 @@
 title: 中央委員会規則
 description: 
 published: true
-date: 2024-03-03T20:25:27.567Z
+date: 2024-03-03T23:29:42.323Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:25:27.567Z
 ---
 
+*Rules of Headquarter*
 ## 規則情報
 公布年月日：平成１９年３月２日
 　　　形式：規則

@@ -2,7 +2,7 @@
 title: 生徒会員規則
 description: 
 published: true
-date: 2024-03-03T23:21:46.251Z
+date: 2024-03-03T23:24:16.828Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:19:37.689Z

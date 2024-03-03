@@ -2,7 +2,7 @@
 title: 現行の規約規則
 description: 
 published: true
-date: 2024-03-03T14:27:06.931Z
+date: 2024-03-03T15:01:56.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:22:04.831Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-03T14:22:04.831Z
 
 現在有効な規約規則は次の１７件です。
 ## 規約
-- 灘高等学校灘中学校生徒会規約
+- [灘高等学校灘中学校生徒会規約](/current/charter)
 ## 規則
 - 不信任決議規則
 - 生徒会員規則

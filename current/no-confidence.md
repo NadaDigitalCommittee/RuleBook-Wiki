@@ -2,13 +2,13 @@
 title: 不信任決議規則
 description: 
 published: true
-date: 2024-03-03T23:15:57.861Z
+date: 2024-03-03T23:20:14.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T15:46:29.555Z
 ---
 
-*Rules of the Resolution of no confidence*
+*Rules of no-confidence motion*
 ## 規則情報
 公布年月日：平成１６年９月１１日
 　　　形式：規則

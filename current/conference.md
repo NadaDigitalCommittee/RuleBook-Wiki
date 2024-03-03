@@ -2,12 +2,13 @@
 title: 協議会規則
 description: 
 published: true
-date: 2024-03-03T20:33:48.159Z
+date: 2024-03-03T23:30:47.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T20:33:48.159Z
 ---
 
+*Rules of Conference Council*
 ## 規則情報
 公布年月日：平成１９年３月２日
 　　　形式：規則

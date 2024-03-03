@@ -2,12 +2,13 @@
 title: 放送委員会規則
 description: 
 published: true
-date: 2024-03-03T23:00:11.735Z
+date: 2024-03-03T23:37:22.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T23:00:11.735Z
 ---
 
+*Rules of Broadcasting Committee*
 ## 規則情報
 &emsp;規則番号：令和５年規則第６号
 公布年月日：令和５年９月８日

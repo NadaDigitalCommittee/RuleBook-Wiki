@@ -1,8 +1,8 @@
 ---
 title: 昭和２７年生徒会会則
 description: 
-published: false
-date: 2025-03-29T13:48:40.857Z
+published: true
+date: 2025-03-29T13:49:11.992Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T09:01:47.817Z

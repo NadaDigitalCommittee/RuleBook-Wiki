@@ -2,13 +2,12 @@
 title: 昭和２７年生徒会会則
 description: 
 published: true
-date: 2025-03-29T13:49:11.992Z
+date: 2025-03-29T13:50:04.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T09:01:47.817Z
 ---
 
-*Charter of Nada Junior and Senior High School Student Council*
 ## 規約情報
 公布年月日：昭和２７年４月２８日
 　　　形式：規約

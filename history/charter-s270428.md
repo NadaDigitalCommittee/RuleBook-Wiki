@@ -1,8 +1,8 @@
 ---
-title: 昭和２７年生徒会会則
+title: 昭和２７年灘高中生徒会規約
 description: 
 published: true
-date: 2025-03-29T13:50:04.014Z
+date: 2025-03-29T13:51:10.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T09:01:47.817Z

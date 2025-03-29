@@ -1,8 +1,8 @@
 ---
 title: 昭和３０年生徒会規約中改正
 description: 
-published: false
-date: 2025-03-29T14:13:22.206Z
+published: true
+date: 2025-03-29T14:14:12.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T14:13:22.206Z

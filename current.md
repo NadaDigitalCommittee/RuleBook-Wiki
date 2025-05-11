@@ -2,7 +2,7 @@
 title: 現行の規約規則
 description: 
 published: true
-date: 2024-04-22T06:51:46.367Z
+date: 2025-05-11T11:58:01.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:22:04.831Z
@@ -30,4 +30,4 @@ dateCreated: 2024-03-03T14:22:04.831Z
 - [デジタル委員会規則（令５・９・８規則第７号）](/current/digital)
 ## 細則
 規約規則のほか、規則の規定に基づき細則が制定されています。
-- [令和６年度中央委員選挙細則（令６・４・１７選挙管理委員会細則第１号）](/current/election-detailed)
+- [令和７年度中央委員選挙細則（令７・４・２５選挙管理委員会細則第１号）](/current/election-detailed)

@@ -2,7 +2,7 @@
 title: 現行の規約規則
 description: 
 published: true
-date: 2025-06-19T16:47:44.325Z
+date: 2025-06-19T16:49:07.238Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:22:04.831Z

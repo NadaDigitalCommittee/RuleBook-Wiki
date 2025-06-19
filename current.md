@@ -2,7 +2,7 @@
 title: 現行の規約規則
 description: 
 published: true
-date: 2025-05-11T11:58:01.980Z
+date: 2025-06-19T16:47:44.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:22:04.831Z
@@ -19,7 +19,6 @@ dateCreated: 2024-03-03T14:22:04.831Z
 - [協議会規則（平１９・３・２規則）](/current/conference)
 - [中央委員選挙規則（平２６・５・７規則）](/current/election)
 - [クラブ規則（平２６・１０・８規則）](/current/clubs)
-- [クラブ委員会規則（令３・２・２６規則第１号）](/current/club-com)
 - [生徒会規約改正案全校投票規則（令４・５・３０規則第３号）](/current/school-voting)
 - [請願規則（令４・１１・８規則第５号）](/current/petition)
 - [会計規則（令５・３・２規則第２号）](/current/accounting)

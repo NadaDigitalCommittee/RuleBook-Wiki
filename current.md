@@ -2,13 +2,13 @@
 title: 現行の規約規則
 description: 
 published: true
-date: 2025-06-19T16:49:07.238Z
+date: 2025-06-19T16:50:09.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-03T14:22:04.831Z
 ---
 
-現在有効な規約規則は次の１７件です。
+現在有効な規約規則は次の１６件です。
 ## 規約
 - [灘高等学校灘中学校生徒会規約（平２６・６・１９規約）](/current/charter)
 ## 規則

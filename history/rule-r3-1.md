@@ -1,8 +1,8 @@
 ---
 title: 令和３年クラブ委員会規則
 description: 
-published: false
-date: 2025-06-19T16:45:17.547Z
+published: true
+date: 2025-06-19T16:46:35.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T16:45:17.547Z
